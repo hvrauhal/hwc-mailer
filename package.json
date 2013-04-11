@@ -1,0 +1,21 @@
+{
+  "name": "hwc-mailer",
+  "version": "0.0.1",
+  "description": "Sends yearly payment emails",
+  "main": "out/send.ls",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "mocha": "1.8.x",
+    "chai": "1.5.x"
+  },
+  "dependencies": {
+    "async": "~0.2.5",
+    "lodash": "~1.0.1",
+    "net": "~1.0.0",
+    "LiveScript": "~1.1.1",
+    "prelude-ls": "~0.6.0",
+    "emailjs": "~0.3.4"
+  }
+}
