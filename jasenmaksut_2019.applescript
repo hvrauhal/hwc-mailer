@@ -1,10 +1,10 @@
 on run argv
 	set recipientAddress to item 1 of argv
 	set refNumber to item 2 of argv
-	set theSubject to "HWC maksut 2018, kevŠttalkoot ja yhdistyksen kokous"
+	set theSubject to "HWC maksut 2019 ja kevŠttalkoot"
 	set theContent to "Hei,
 
-Helsinki Windsurfing Clubin maksut kaudelle 2018 ovat:
+Helsinki Windsurfing Clubin maksut kaudelle 2019 ovat:
 
  * JŠsenmaksu 20Û
  * Lautapaikkavuokra 30Û
@@ -17,22 +17,7 @@ paikastasi, teethŠn sen ennen kevŠttalkoita, niin voit jŠttŠŠ maksut
 maksamatta ja saamme paikan aktiivikŠyttššn tulevalle kesŠlle.
 
 KevŠttalkoot jŠrjestetŠŠn lauantaina 18.5. klo 12 alkaen, tervetuloa!
-
-
-Ennen kevŠttalkoita pidetŠŠn yhdistyksen ylimŠŠrŠinen kokous.
-
-YlimŠŠrŠisen kokouksen esityslista:
-
-* Kokous avataan
-* Valitaan kokoukselle puheenjohtaja, sihteeri ja pšytŠkirjan tarkastaja
-* Todetaan kokouksen laillisuus ja pŠŠtšsvaltaisuus sekŠ hyvŠksytŠŠn esityslista
-* EsitetŠŠn vuoden 2017 tilit ja toiminnantarkastajien lausunto
-* PŠŠtetŠŠn tili- ja vastuuvapauden myšntŠmisestŠ hallitukselle ja muille tilivelvollisille
-* Valtuutetaan yhdistyksen puheenjohtaja Heikki Rauhala tekemŠŠn muutokset tilinkŠyttšoikeuksiin:
-** Poistetaan tilinkŠyttšoikeus Jani Holopaiselta
-** Annetaan laajat tilinkŠyttšoikeudet Jarmo MŠkiselle
-* KŠsitellŠŠn muut asiat
-* PŠŠtetŠŠn kokous
+https://www.facebook.com/events/453760378778151/
 
 
 Surffiterveisin,
